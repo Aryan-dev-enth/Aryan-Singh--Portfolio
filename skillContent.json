@@ -1,0 +1,36 @@
+[
+    {
+      "title": "Programming",
+      "logoImg": "https://example.com/programming-logo.png",
+      "content": [
+        "Strong proficiency in JavaScript, Python, and Java.",
+        "Experience with web development using HTML, CSS, and various frameworks (React, Angular).",
+        "Familiarity with backend development and databases (Node.js, MongoDB, SQL).",
+        "Understanding of data structures and algorithms.",
+        "Version control using Git and collaboration on platforms like GitHub."
+      ]
+    },
+    {
+      "title": "Graphic Design",
+      "logoImg": "https://example.com/design-logo.png",
+      "content": [
+        "Proficient in Adobe Creative Suite (Photoshop, Illustrator, InDesign).",
+        "Experience in creating visually appealing graphics and layouts.",
+        "Understanding of color theory, typography, and design principles.",
+        "Ability to create logos, banners, and marketing materials.",
+        "Knowledge of UI/UX design principles for web and mobile applications."
+      ]
+    },
+    {
+      "title": "Communication",
+      "logoImg": "https://example.com/communication-logo.png",
+      "content": [
+        "Excellent written and verbal communication skills.",
+        "Experience in crafting clear and concise documentation.",
+        "Effective collaboration with cross-functional teams.",
+        "Strong presentation skills and ability to convey complex ideas.",
+        "Adaptability and responsiveness in communication."
+      ]
+    }
+  ]
+  
